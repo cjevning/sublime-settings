@@ -1,0 +1,30 @@
+{
+	"binary_file_patterns":
+	[
+		".svn/",
+		".git/",
+		".hg/",
+		"CVS/",
+		"node_modules/",
+		"bower_components/",
+		"static/",
+		".happypack/",
+		"coverage/",
+		"webpack-assets.json",
+		"lib/",
+		"postgres/data/tables/",
+		".nyc_output/",
+		"stats.json",
+		"*.lock",
+		"**/dist/*"
+	],
+	"color_scheme": "Packages/User/SublimeLinter/Hammer (SL).tmTheme",
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 2,
+	"theme": "predawn.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

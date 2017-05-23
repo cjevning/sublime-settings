@@ -1,0 +1,20 @@
+[
+  { "keys": ["super+shift+l"],
+    "command": "insert_snippet",
+    "args": {
+      "contents": "console.log(${1:}$SELECTION);${0}"
+    }, "context":
+    [
+      { "key": "selector", "operator": "equal", "operand": "source.js", "match_all": true }
+    ]
+  },
+  { "keys": ["super+shift+l"],
+    "command": "insert_snippet",
+    "args": {
+      "contents": "NSLog(@\"${1:}$SELECTION\"$2);\n${0}"
+    }, "context":
+    [
+      { "key": "selector", "operator": "equal", "operand": "source.objc", "match_all": true }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Babel",
+		"BracketGuard",
+		"BracketHighlighter",
+		"Case Conversion",
+		"Color Highlighter",
+		"Colorsublime",
+		"DocBlockr",
+		"Increment Selection",
+		"MarkdownEditing",
+		"Package Control",
+		"Predawn",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint"
+	]
+}
