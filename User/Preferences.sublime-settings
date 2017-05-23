@@ -16,7 +16,8 @@
 		".nyc_output/",
 		"stats.json",
 		"*.lock",
-		"**/dist/*"
+		"**/dist/*",
+		"**/dlls/*"
 	],
 	"color_scheme": "Packages/User/SublimeLinter/Hammer (SL).tmTheme",
 	"font_size": 8,
